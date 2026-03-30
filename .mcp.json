@@ -11,6 +11,12 @@
       "command": "/opt/homebrew/bin/python3",
       "args": ["/Users/Adnan/aireadymeta/server.py"],
       "env": {}
+    },
+    "aiready-facebook": {
+      "type": "stdio",
+      "command": "/opt/homebrew/bin/python3",
+      "args": ["/Users/Adnan/aiready-facebook-mcp/server.py"],
+      "env": {}
     }
   }
 }
