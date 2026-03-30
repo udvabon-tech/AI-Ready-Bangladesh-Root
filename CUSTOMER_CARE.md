@@ -50,8 +50,8 @@ Every customer interaction is a touchpoint for the AI Ready Bangladesh movement.
 
 ### 3. "কোর্স কিভাবে কিনবো?" (How to buy the course?)
 
-> AI রেডি মাইক্রো কোর্সের দাম ৳৫০০। bKash, Nagad, Rocket বা Card দিয়ে পেমেন্ট করতে পারবেন।
-> কোর্সটি ৬ মাস access থাকবে, মোবাইল থেকেই করতে পারবেন।
+> AI রেডি মাইক্রো কোর্সের দাম ৳৭৯০। bKash, Nagad, Rocket বা Card দিয়ে পেমেন্ট করতে পারবেন।
+> ২৯টি ভিডিও, ২+ ঘন্টা কন্টেন্ট। কোর্সটি ৬ মাস access থাকবে, মোবাইল থেকেই করতে পারবেন।
 >
 > এখানে দেখুন: https://aiready.bd/courses/aiready
 >

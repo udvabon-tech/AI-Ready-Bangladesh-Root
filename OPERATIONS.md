@@ -56,7 +56,8 @@ Customer visits course page
 | Cloudflare R2 | File/image storage | API integrated |
 | Facebook Page | Social media presence | https://www.facebook.com/aireadybd |
 | Gmail | Business email | aireadybangladesh@gmail.com |
-| WhatsApp | Customer communication | 01815358335 |
+| WhatsApp (Adnan) | Founder communication | 01815358335 |
+| WhatsApp (Business) | Customer communication (on site) | 01630300896 |
 | IFIC Bank | Collections | Personal account |
 | RedotPay | USD spending (ads) | Loaded at ৳129.5/USD |
 
@@ -76,6 +77,15 @@ Located at `aiready.bd/admin` (role-protected):
 3. **Monitor delivery status** — Check Steadfast webhook updates.
 4. **Handle customer queries** — Respond via Messenger/WhatsApp (to be automated).
 5. **Track revenue** — Monitor course enrollments and book order completions.
+
+## Known Issues
+
+### Refund Policy Inconsistency (NEEDS FIX)
+- `/refund-policy` page says: "No refunds or replacements" (with 24-hour exception for damaged items)
+- `/terms` page says: Physical products refundable within 7 days if damaged/defective; Digital products within 3 days if access not received
+- **Action needed:** Align these two pages. Recommend using the `/terms` version as it's more customer-friendly and legally protective.
+
+---
 
 ## Sync Between Legacy & New Site
 

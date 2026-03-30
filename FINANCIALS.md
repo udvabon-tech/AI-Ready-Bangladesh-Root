@@ -4,7 +4,7 @@
 
 - **Total revenue (as of March 2026):** ~৳8–9 lakh (primarily from book sales)
 - **Primary revenue source:** AI Ready Book via Facebook ad campaigns
-- **Secondary:** Course sales and bundle sales via EPS payment gateway
+- **Secondary:** Course sales (৳790) and bundle sales (৳990) via EPS payment gateway
 
 ## Unit Economics — AI Ready Book
 

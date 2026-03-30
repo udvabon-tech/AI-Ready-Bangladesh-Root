@@ -38,7 +38,9 @@ AI Ready Bangladesh is a **thought leader and visionary brand**. It is NOT a dis
 | Website (Legacy) | https://aiready.com.bd |
 | Facebook | https://www.facebook.com/aireadybd |
 | Email | aireadybangladesh@gmail.com |
-| Mobile / WhatsApp | 01815358335 |
+| Adnan's Mobile / WhatsApp | 01815358335 |
+| Business WhatsApp (on site) | 01630300896 |
+| Operating Address | 23/14 Rupnagar R/A, Dhaka 1216 |
 
 ## Founder's Other Ventures (Under Udvabon Tech)
 

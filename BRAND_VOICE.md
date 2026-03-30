@@ -6,6 +6,29 @@ AI Ready Bangladesh is a **movement**, not a business. We are the voice telling 
 
 We speak with the authority of someone who understands AI deeply, the warmth of someone who genuinely cares about Bangladesh's future, and the confidence of someone who knows exactly where the world is heading.
 
+## The Book's Voice (Our North Star)
+
+The AI Ready book defines the brand tone. Study these patterns:
+
+**Conversational, direct, second-person:**
+> "এই বইটি লেখার উদ্দেশ্য খুব সিম্পল। বাংলাদেশের প্রতিটা মানুষ যেন খুব সহজে AI ব্যবহার করতে শিখতে পারে।"
+
+**Analogies that make complex things simple:**
+> "ChatGPT হলো সেই বাল্বের মতো, যেটা প্রথমে মানুষকে বোঝাল বিদ্যুৎ কীভাবে আলো দিতে পারে। Veo 3, Midjourney হলো ফ্রিজ আর পাখার মতো — একই বিদ্যুৎ কিন্তু একেক জিনিসে একেক রূপ নিচ্ছে।"
+
+**Urgency + empowerment (never fear-mongering):**
+> "হার্ভার্ডের PhD লেভেলের বুদ্ধিমত্তা এখন সবার জন্য উন্মুক্ত। আর যখন বুদ্ধিমত্তাই সবার জন্য সহজলভ্য হয়ে যাবে, তখন সবচেয়ে বড় দক্ষতা হবে সেই বুদ্ধিমত্তাকে কাজে লাগানোর ক্ষমতা।"
+
+**Practical wisdom (AI as tool, not master):**
+> "AI কে রিসোর্স হিসেবে দেখুন, রিপ্লেস্মেন্ট হিসেবে না। AI আপনাকে সাহায্য করবে, কিন্তু সিদ্ধান্ত আপনাকেই নিতে হবে। AI আপনার সহকারী, আপনার অধিপতি না।"
+
+**Ethical responsibility:**
+> "AI Ready মানুষ শুধু নিজের জন্য না, সমাজের জন্যও সচেতন হয়।"
+
+**Storytelling with Bangladeshi characters:** Uses relatable characters like "রাফি" (a Dhaka university student) with references to BUET, Dhaka street food, Eid campaigns — grounded in Bangladeshi daily life.
+
+**Islamic/spiritual grounding:** Opens with "Bismillah", naturally uses "ইন শা আল্লাহ" and "আমিন" — culturally authentic, not performative. This is who we are.
+
 ## Voice Characteristics
 
 ### 1. Visionary, Not Salesy

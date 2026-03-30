@@ -43,7 +43,9 @@ This repository is the **autonomous operations playbook** for AI Ready Banglades
 - **Legacy site:** https://aiready.com.bd
 - **Facebook:** https://www.facebook.com/aireadybd
 - **Email:** aireadybangladesh@gmail.com
-- **WhatsApp:** 01815358335
+- **WhatsApp (Adnan):** 01815358335
+- **WhatsApp (Business):** 01630300896
+- **Address:** 23/14 Rupnagar R/A, Dhaka 1216
 - **Ad Account:** act_1290501775895152 (via aireadymeta MCP server)
 - **Codebase:** `/Users/Adnan/AdnanHQ/aiready.bd/`
 
