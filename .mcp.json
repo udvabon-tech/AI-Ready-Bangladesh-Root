@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "aiready-convex": {
+      "type": "stdio",
+      "command": "/opt/homebrew/bin/python3",
+      "args": ["/Users/Adnan/aiready-convex-mcp/server.py"],
+      "env": {}
+    },
+    "meta-ads": {
+      "type": "stdio",
+      "command": "/opt/homebrew/bin/python3",
+      "args": ["/Users/Adnan/aireadymeta/server.py"],
+      "env": {}
+    }
+  }
+}

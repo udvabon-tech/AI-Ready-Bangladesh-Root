@@ -93,14 +93,23 @@ Every customer interaction is a touchpoint for the AI Ready Bangladesh movement.
 
 ### 8. "Refund চাই" (Want a refund)
 
-**For book (COD):**
-> বই ক্যাশ অন ডেলিভারিতে পাঠানো হয়, তাই রিফান্ডের প্রয়োজন হয় না।
-> বই ডেলিভারির সময় নিতে না চাইলে ফেরত দিতে পারবেন।
+**For book — damaged/defective (within 7 days of delivery):**
+> ক্ষতিগ্রস্ত পণ্যের জন্য দুঃখিত। অনুগ্রহ করে ক্ষতিগ্রস্ত বইয়ের ছবি পাঠান।
+> আমরা যাচাই করে রিফান্ড বা রিপ্লেসমেন্ট ব্যবস্থা করবো।
 
-**For course (digital):**
-> আমাদের রিফান্ড পলিসি অনুযায়ী ব্যবস্থা নেওয়া হবে।
+**For book — "I changed my mind" / general:**
+> বই ক্যাশ অন ডেলিভারিতে পাঠানো হয়। ডেলিভারির সময় নিতে না চাইলে ফেরত দিতে পারবেন।
+> সাধারণ কারণে রিফান্ড প্রদান করা হয় না। বিস্তারিত: https://aiready.bd/refund-policy
+
+**For course — access not working (within 3 days of purchase):**
+> কোর্স অ্যাক্সেসে সমস্যা হলে আমরা অবশ্যই সমাধান করবো।
+> আপনার ইমেইল এবং ট্রানজেকশন আইডি জানাবেন? আমি চেক করে দেখছি।
+> সমাধান না হলে ৩ দিনের মধ্যে রিফান্ড করা হবে।
+
+**For course — already accessed:**
+> কোর্স অ্যাক্সেস করার পর রিফান্ড প্রদান করা হয় না।
+> কোনো সমস্যা থাকলে জানাবেন — আমরা সাহায্য করার চেষ্টা করবো।
 > বিস্তারিত: https://aiready.bd/refund-policy
-> আপনার সমস্যাটি জানাবেন? হয়তো সমাধান করা সম্ভব।
 
 ## Tone Rules for Customer Support
 
