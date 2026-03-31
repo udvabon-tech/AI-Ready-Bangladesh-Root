@@ -1,0 +1,16 @@
+# Ignore large files (images, videos) to keep repo lightweight
+creatives/images/*.png
+creatives/images/*.jpg
+creatives/images/*.jpeg
+creatives/images/*.webp
+creatives/videos/*.mp4
+creatives/videos/*.mov
+creatives/videos/*.avi
+
+# Keep text-based creative briefs and descriptions
+!creatives/images/*.md
+!creatives/videos/*.md
+!creatives/copy/
+
+# OS files
+.DS_Store

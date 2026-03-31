@@ -1,0 +1,53 @@
+{
+  "products": {
+    "book": {
+      "name": "AI Ready Book",
+      "slug": "ai-ready",
+      "landing_pages": [
+        "https://aiready.com.bd/books/ai-ready",
+        "https://aiready.bd/books/ai-ready"
+      ],
+      "selling_price": 499,
+      "cogs": 200,
+      "profit_before_ads": 299,
+      "breakeven_cpa": 299,
+      "target_cpa": 200,
+      "notes": "COD. ~10% return rate. Customer pays delivery."
+    },
+    "bundle": {
+      "name": "AI Ready Bundle (Book + Course)",
+      "slug": "aireadybundle",
+      "landing_pages": [
+        "https://aiready.bd/aireadybundle"
+      ],
+      "selling_price": 990,
+      "cogs": 300,
+      "profit_before_ads": 690,
+      "breakeven_cpa": 690,
+      "target_cpa": 450,
+      "notes": "Online payment. Free delivery included. 3 options on page."
+    },
+    "microcourse": {
+      "name": "AI Ready Micro-Course",
+      "slug": "aiready",
+      "landing_pages": [
+        "https://aiready.bd/courses/aiready"
+      ],
+      "selling_price": 790,
+      "cogs": 100,
+      "profit_before_ads": 690,
+      "breakeven_cpa": 690,
+      "target_cpa": 450,
+      "notes": "Digital. Online payment via EPS."
+    }
+  },
+  "rules": {
+    "min_spend_before_judgement_bdt": 1000,
+    "min_days_before_kill": 3,
+    "scale_budget_increment_percent": 20,
+    "max_daily_budget_per_adset_bdt": 5000,
+    "profit_margin_target_percent": 30,
+    "return_rate_book_percent": 10
+  },
+  "updated": "2026-03-31"
+}
