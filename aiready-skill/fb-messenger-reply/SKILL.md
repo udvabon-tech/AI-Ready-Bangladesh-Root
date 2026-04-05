@@ -14,7 +14,9 @@ Reply to unread Facebook Messenger messages for the AI Ready Bangladesh page.
    - Friend tags (peer-to-peer conversations where people are tagging each other)
    - Conversations where the last message is FROM the page (already replied)
 4. For conversations that need a reply, craft a short casual Bangla reply following the rules below
-5. Send the reply using `composio_send_messenger_reply` with the recipient's `from_id`
+5. **Detect conversation type** by checking if any message contains `"Facebook created this chat because"` — this means it is a **comment-to-message thread** (user commented on a post; Facebook auto-created the chat):
+   - **Comment-to-message thread:** Extract the `comment_id` from the URL in the system message (e.g. `comment_id=970601485471562`), then reply using `reply_to_comment`. Do NOT attempt `composio_send_messenger_reply` — it will always fail with #551 for these threads.
+   - **Regular Messenger conversation:** Send using `composio_send_messenger_reply` with the recipient's `from_id` as normal.
 6. For damaged product replacements, notify Hiron via WhatsApp (see section below)
 
 ## Reply Rules
