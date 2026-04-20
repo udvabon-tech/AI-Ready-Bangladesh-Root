@@ -1,0 +1,16 @@
+.DS_Store
+
+# Workspace / runtime data (not source)
+data/
+logs/
+viral-post-logs/
+meta-ads-manager/creatives/
+meta-ads-manager/reports/
+
+# Local settings
+.claude/settings.local.json
+.claude/settings.json
+
+# Python
+__pycache__/
+*.pyc
