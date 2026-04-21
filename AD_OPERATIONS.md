@@ -68,6 +68,17 @@ Account: act_1290501775895152
 6. **Run for 5–7 days** before making judgments
 7. **Kill losers, scale winners** — but give Meta's algorithm time to learn
 
+### Activation Checklist (CRITICAL)
+
+Meta's API creates **both ads and ad sets PAUSED by default**. Activating the ad set alone is NOT enough — the ad inside it also starts off. Always activate in this order:
+
+1. `create_ad` → ad is PAUSED
+2. `update_ad(status=ACTIVE)` → activate the ad
+3. `set_ad_set_status(ACTIVE)` → activate the ad set
+4. `set_campaign_status(ACTIVE)` → activate the campaign (if needed)
+
+All three levels must be ACTIVE for delivery to start. Verify in Ads Manager: ad set = "Learning" and ad = "Active" (not "Ad off").
+
 ### When Testing New Products (Courses, Bundles)
 
 - Start with **ABO** (Ad Set Budget Optimization) to control spend per audience
