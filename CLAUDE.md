@@ -9,7 +9,7 @@ This is the business operations root for AI Ready Bangladesh. Read the relevant 
 
 ## Available Skills
 
-- **aiready-customer-care** — Handle customer support queries using Convex data + brand voice templates.
+_None currently — FB/customer-care automation was wiped on 2026-05-08 for a fresh-start rebuild on Claude Code Channels._
 
 ## Key Rules
 
