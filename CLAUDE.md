@@ -25,7 +25,6 @@ _None currently — FB/customer-care automation was wiped on 2026-05-08 for a fr
 |------------|-----------|
 | Understand the business | BUSINESS_OVERVIEW.md |
 | Write copy or content | COPYWRITING.md + BRAND_VOICE.md |
-| Handle customer support | CUSTOMER_CARE.md |
 | Manage ads | AD_OPERATIONS.md |
 | Check pricing/products | PRODUCTS.md |
 | Make a decision | DECISION_AUTHORITY.md |
