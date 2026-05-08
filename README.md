@@ -28,14 +28,12 @@ This repository is the **autonomous operations playbook** for AI Ready Banglades
 | [MARKETING.md](MARKETING.md) | Content strategy, ad principles, conversion tracking |
 | [AD_OPERATIONS.md](AD_OPERATIONS.md) | Meta Ads playbook — campaigns, budgets, scaling rules |
 | [COPYWRITING.md](COPYWRITING.md) | Writing templates, rules, forbidden patterns, quality checklist |
-| [CUSTOMER_CARE.md](CUSTOMER_CARE.md) | Support protocols, response templates, escalation rules |
 
 ### Technical & Growth
 | File | What's Inside |
 |------|--------------|
 | [TECH_INFRASTRUCTURE.md](TECH_INFRASTRUCTURE.md) | Architecture, database schema, integrations, deployment |
 | [GROWTH_ROADMAP.md](GROWTH_ROADMAP.md) | 5-phase vision, product pipeline, strategic principles |
-| [AGENT_ARCHITECTURE.md](AGENT_ARCHITECTURE.md) | Skills, MCP servers, scheduled agents, build priority |
 
 ## Quick Reference
 
